@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "Assests/font/Ruda-Black.ttf",
+      "sha1": "ab34378d9537ca1beb5e9512a3ff9288fca42086"
+    },
+    {
+      "path": "Assests/font/Ruda-Bold.ttf",
+      "sha1": "cda8b2285a67b5abb8d8fd5ae30dc066ff08ffcd"
+    },
+    {
+      "path": "Assests/font/Ruda-ExtraBold.ttf",
+      "sha1": "508d419f0917aa44a65a517ed4f2b5131c475684"
+    },
+    {
+      "path": "Assests/font/Ruda-Medium.ttf",
+      "sha1": "a30c68e45d7449f311d2ea49e6e29ea4bc3d4182"
+    },
+    {
+      "path": "Assests/font/Ruda-Regular.ttf",
+      "sha1": "edddd2d47fa8b99984316d4e30edbc6bbf3bd68c"
+    },
+    {
+      "path": "Assests/font/Ruda-SemiBold.ttf",
+      "sha1": "fda7e504d31c93f3a0554934eb2aa79df68b9542"
+    }
+  ]
+}
